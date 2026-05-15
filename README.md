@@ -30,11 +30,17 @@ I use this GitHub to upload personal projects, university work, experiments and 
 
 ## Tech I'm learning
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-111?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-111?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-111?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-111?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
